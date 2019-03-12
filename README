@@ -1,14 +1,17 @@
 Prerequisites
---A user seeking to find companions in a healthy environment, that will occompany them on a mutually agreed upon activity. User will need to download
---the mobile application, and provide basic user information to create an account and get started. 
+--A user seeking to find companions in a healthy environment, that will occompany them on a mutually agreed upon activity. User will need to download the mobile application, and provide basic user information to create an account and get started. 
+--Users information will be stored, and compared in a database to best match users based off filters.
+--Apple or Android mobile device required.
+--Memory required for base version of application: TBD
 
 Installing
 --Go to your respective IOS application store.
 --Search for Lets Link.
---Download for free. (Space required on mobile device will be inserted after devlopment is complete)
+--Download for free. 
 
 Built With
 --Visual Studio: C#
+--T-SQL
 
 Authors
 --Tyler Ballard - Initial Work - Lets Link
